@@ -13,6 +13,10 @@
     align-items: center;
 }
 
+.image img {
+    /* border-radius: 50%; */
+}
+
 /* .section {
     min-height: 100vh;
 } */
