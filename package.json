@@ -1,0 +1,22 @@
+{
+  "name": "techblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giaduc/techblog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giaduc/techblog/issues"
+  },
+  "homepage": "https://github.com/giaduc/techblog#readme",
+  "dependencies": {
+    "bulma": "^0.7.1"
+  }
+}
